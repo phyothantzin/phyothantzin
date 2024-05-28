@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/557620845845938185)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZipP2001)
 
+<!-- ### Top Languages Used: -->
+<div align="center" style="display: flex; justify-content: space-around; border: 1px solid red;">
+  <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Repo" />
+  <img style="display: block;" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yae-Htet-Aung&theme=nord_dark" alt="Top Languages by Commits" />
+</div>
+
 ## 💻 Tech Stack:
 
 ### Main skills:
