@@ -15,24 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ 👨‍💻 I'm a Junior Full Stack Web Developer.
++ 👨‍💻 I'm a Full Stack Web Developer.
 + 🙆‍♂️ Coffee, snacks, music and anime are my happinesses.
-+ 🌱 I’m currently learning Vue 3, Nuxt & Advanced Laravel.
-+ 👯 I’m collaborating on Web-POS & E-commerce Api Projects.
++ 🌱 I’m currently learning Java, AWS and advance React and Next.js.
 + 👀 I'm looking for a Web Development Team.
 + 📫 You can reach me using accounts described on my profile.
-+ ⚡ Fun fact : Lowres Member!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8338ec&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Phyo+Thant;I'm+Junior+Full+Stack+Web+Developer;Feel+Free+To+Contact+me!)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010478018386) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zip-p-aa3154204/) 
+## 🌐 Socials: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyothantzin.w@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/557620845845938185)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZipP2001)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phyo_thant_z)
 
 <!-- ### Top Languages Used: -->
 <div align="center" style="display: flex; justify-content: space-around; border: 1px solid red;">
